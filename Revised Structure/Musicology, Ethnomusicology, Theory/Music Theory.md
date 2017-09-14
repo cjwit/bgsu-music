@@ -2,7 +2,10 @@
 
 The Master of Music in Music Theory offers students an excellent opportunity to hone the scholarly, pedagogical, and presentational skills necessary to thrive in a competitive academic field. The degree offers a full complement of courses and seminars that encourage engagement with both traditional and more current lines of research in the discipline.
 
-[BUTTONS: Download the Flyer, Student Accomplishments]
+[BUTTONS:]
+
+* [Download the Flyer](link)
+* [Student Accomplishments](link)
 
 The M.M. in Music Theory at BGSU is broad-based, offering extraordinary opportunities in the area of contemporary music. The resources of the [Mid-American Center for Contemporary Music](link) enrich the learning experience with visiting artists and especially with the internationally renowned [New Music Festival](link). Further, the College of Musical Arts-—with around 500 students and 56 full-time faculty members—-offers students the resources and experiences of a large university with the feel of a more intimate setting.
 

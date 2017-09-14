@@ -90,36 +90,15 @@ Musicology/Ethnomusicology/Theory
 * Check numbers
 * Where does Audition in China go?
 * Create buttons for other pages
+* Add Application and University Admissions buttons to all D&P pages
 
 This feels like it should go on a college-level page. It isn't very specific to the area and links to general topics (like auditioning in China)
 
-### Curricula
+### Admission Requirements
 
-* Formatting to change curriculum table to text only?
-* Are admission requirements specific to theory, or should these be more centralized, perhaps on a page that has the curricula for each department?
+* Visit a class needs updating (where is this listing coming from?)
 
-#### Undergraduate
-
-Change title to Undergraduate Degree Programs?
-
-Musicology area flyer: any reason this isn't on the other pages (like the theory one)?
-
-What's the difference between an inquiry and contact?
-
-Catalog tab
-
-* Composition accordion dropdown is under history and lit
-* Why list the College name in the catalog materials?
-* Any updates to the catalog?
-* Better way to structure this
-
-Other tabs
-
-* Curriculum guide tab is empty (could be moved into its own page, anyhow)
-* Courses offered empty (link to catalog? Descriptions of recent classes?)
-* Visit a class needs updating (where is this listing coming from? Why not just assume that it's under Inquiry?)
-
-#### Graduate
+#### Graduate START HERE
 
 Change name of page
 
@@ -165,3 +144,10 @@ Very short interview tab, could fold into application information
 
 * How much of application info is copied from the college page?
 * Could these tabs just become links to their source pages?
+
+### Curricula
+
+* May work well as an accordion dropdown on the Admission Requirements page
+* Remove or update current course listings, or link to something accessible from outside of the University
+* Formatting to change curriculum table to text only?
+* Are admission requirements specific to theory, or should these be more centralized, perhaps on a page that has the curricula for each department?
