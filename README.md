@@ -1,4 +1,6 @@
-# Issues
+# BGSU MUCT Revisions
+
+Notes, current issues, status
 
 ## Structure
 
