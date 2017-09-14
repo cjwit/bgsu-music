@@ -70,7 +70,6 @@ Musicology/Ethnomusicology/Theory
 
 * Musicology specializations
 * Musicology-specific resources
-* Musicology flier
 
 ### Theory
 
@@ -98,7 +97,7 @@ This feels like it should go on a college-level page. It isn't very specific to 
 
 * Visit a class needs updating (where is this listing coming from?)
 
-#### Graduate START HERE
+### Graduate START HERE
 
 Change name of page
 
