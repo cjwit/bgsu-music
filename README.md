@@ -85,8 +85,6 @@ Musicology/Ethnomusicology/Theory
 * Degrees, thesis titles
 * Listing of current students?
 
-# START HERE
-
 ### Degrees & Programs
 
 * Check numbers
