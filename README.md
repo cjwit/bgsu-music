@@ -84,52 +84,10 @@ Listing of current students and interests/photos?
 
 * Visit a class needs updating (where is this listing coming from?)
 
-### Graduate START HERE
+### Program Information
 
-Change name of page
-
-Why a button to another page when there's only one option?
-
-Tabs
-
-* Formatting is irregular
-* Buttons lead to disorganized places
-* This language also feels college specific, too general for the area page
-* Use of Caps
-* Check spelling
-* Heading levels are not consistent with other tabs (some are black, these are orange)
-* Tabs overall could have shorter titles for layout
-
-Admissions tab
-
-* Button text is the same color as the button
-
-Assistantship tab
-
-* Spelling issues
-* Mix of FAQ and headings
-
-Fellowships
-
-* Appears to be all links to other programs?
-
-Financial aid
-
-* Cost of attendance as link or button?
-
-### Master of Music
-
-Appears to be much more specific to the department
-
-Link to external page with assistantship info, which then links to availability and Descriptions
-
-* Duplicated in tabs
-* Could just be two distinct links (or buttons)
-
-Very short interview tab, could fold into application information
-
-* How much of application info is copied from the college page?
-* Could these tabs just become links to their source pages?
+* Format into blocks, buttons, or links
+* Add text to describe links
 
 ### Curricula
 
