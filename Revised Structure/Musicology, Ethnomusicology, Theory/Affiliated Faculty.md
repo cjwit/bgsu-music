@@ -58,6 +58,10 @@ Associate Professor of Music Theory
 
 ## Affiliated Faculty in Other Departments
 
+[Angela Ahlgren](http://www.bgsu.edu/arts-and-sciences/theatre-and-film/faculty-staff/angela-ahlgren.html)
+Assistant Professor of Theatre and Film
+215 Wolfe Center, [akahlgr@bgsu.edu](mailto:akahlgr@bgsu.edu)
+
 Esther Clinton
 Adjunct Instructor of Popular Culture
 346 Shatzel Hall, [estherc@bgsu.edu](mailto:estherc@bgsu.edu)

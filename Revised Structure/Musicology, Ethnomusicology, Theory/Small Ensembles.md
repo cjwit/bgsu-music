@@ -12,7 +12,7 @@ The Early Music Ensemble performs music of the Middle Ages, Renaissance and Baro
 
 [TODO: add image, audio]
 
-## Hayabusa Taiko Ensemble ([Allison Eckardt Merrill, director](http://www.bgsu.edu/musical-arts/faculty-and-staff/allison-eckardt-merrill.html))
+## Hayabusa Taiko Ensemble ([Angela Ahlgren](http://www.bgsu.edu/arts-and-sciences/theatre-and-film/faculty-staff/angela-ahlgren.html))
 
 Taiko is a form of Japanese Ensemble drumming that has become popular across Japan, then United States, and around the world. Students will perform in the ensemble, learning multiple pieces and performing in venues across town, including at the College of Musical Arts, the Arts Village, and at the Black Swamp Arts Festival in downtown Bowling Green.  Music is learned aurally, so music reading ability is not necessary, but you should be ready for lots of physical movement. Enrollment is open to all students.
 
