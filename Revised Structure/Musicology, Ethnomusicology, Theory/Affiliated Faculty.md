@@ -56,6 +56,12 @@ Associate Professor of Music Theory, Department Chair of Musicology/Composition/
 Associate Professor of Music Theory
 1045 Moore Musical Arts Center, 419-372-8508, [gtranth@bgsu.edu](mailto:gtranth@bgsu.edu)
 
+## Music Industry
+
+[Erik Sabo](https://www.bgsu.edu/musical-arts/faculty-and-staff/erik-sabo.html)
+Instructor of Music Industry
+2114 Moore Musical Arts Center, 419-372-2181, [jesabo@bgsu.edu](mailto:jesabo@bgsu.edu)
+
 ## Affiliated Faculty in Other Departments
 
 [Angela Ahlgren](http://www.bgsu.edu/arts-and-sciences/theatre-and-film/faculty-staff/angela-ahlgren.html)

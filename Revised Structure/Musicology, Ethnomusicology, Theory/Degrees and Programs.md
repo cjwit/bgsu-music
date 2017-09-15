@@ -27,7 +27,7 @@ The College of Musical Arts offers degrees and programs in the following areas, 
 
 # For More Information
 
-* [Inquire about Our Programs](http://www.bgsu.edu/musical-arts/prospective-students/undergraduate/inquiry.html)
+* [Inquire about Our Programs (Online Form)](http://www.bgsu.edu/musical-arts/prospective-students/undergraduate/inquiry.html)
 * [Email Music Admissions](mailto:musicadmissions@bgsu.edu)
 
 # Undergraduate Programs
@@ -42,8 +42,15 @@ The College of Musical Arts offers degrees and programs in the following areas, 
 * [Bachelor of Music in Music Composition](http://www.bgsu.edu/catalog/colleges-and-programs/college-of-musical-arts/music-composition.html)
 * [Bachelor of Musical Arts in Music](https://www.bgsu.edu/admissions/academics/undergraduate-majors-and-programs/music-bma1.html)
 
+More information about these programs, including details on the College of Musical Arts's other degree offerings, preparing for a course of study in music, and related opportunities are at the following links.
+
 * [Music (Undergraduate)](http://choose.bgsu.edu/academics/majors/?guide=MUSG)
 * [Music Composition (Undergraduate)](http://choose.bgsu.edu/academics/majors/?guide=MUSC)
+
+The musicology, ethnomusicology, theory, and composition area have two minors available for undergraduates who are interested in the music industry and recording technology.
+
+* [Recording Technology Minor](https://www.bgsu.edu/catalog/colleges-and-programs/college-of-musical-arts/recording-technology-minor.html)
+* [Music Industry Minor](https://www.bgsu.edu/catalog/colleges-and-programs/college-of-musical-arts/music-industry-minor.html)
 
 # Graduate Programs
 
@@ -52,6 +59,8 @@ The College of Musical Arts offers degrees and programs in the following areas, 
 
 ## Applying and Funding Opportunities
 
+The BGSU College of Musical Arts features a range of opportunities for graduate assistantships, fellowships, scholarships, and awards. The following links contain information about funding specific to the department, resources for University-wide programs, and details on the application and interview process.
+
 * [Musicology, Ethnomusicology, Composition, and Theory Graduate Assistantship Information](https://www.bgsu.edu/musical-arts/prospective-students/masters/assistantships/muct.html)
 * [Fellowships and Awards](https://www.bgsu.edu/graduate/fellowships-scholarships-and-awards/)
 * [Graduate Audition and Interview Information](https://www.bgsu.edu/musical-arts/prospective-students/masters/auditions.html)
@@ -59,9 +68,11 @@ The College of Musical Arts offers degrees and programs in the following areas, 
 
 ## Information on Admissions, Assistantships, Fellowships, and Financial Aid
 
+Pro Musica is an on-campus organization that links with alumni, friends of the University, and the community to offer various grants and awards for students.
+
 * [Pro Musica Activities and Grant Opportunities](http://www.bgsu.edu/musical-arts/college-information/pro-musica.html)
 
-[University links]
+The following pages explain the admissions, assistantship, and financial aid processes for Bowling Green State University and provide resources for students who are interested or have applied for admission to the College of Musical Arts.
 
 * [BGSU Graduate Admissions](https://www.bgsu.edu/graduate/admissions.html)
 * [Graduate Assistantships](https://www.bgsu.edu/graduate/graduate-assistantships.html)
