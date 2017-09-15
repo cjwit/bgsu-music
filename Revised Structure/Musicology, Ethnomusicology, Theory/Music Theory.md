@@ -7,7 +7,7 @@ The Master of Music in Music Theory offers students an excellent opportunity to 
 * [Download the Flyer](link)
 * [Student Accomplishments](link)
 
-The M.M. in Music Theory at BGSU is broad-based, offering extraordinary opportunities in the area of contemporary music. The resources of the [Mid-American Center for Contemporary Music](link) enrich the learning experience with visiting artists and especially with the internationally renowned [New Music Festival](link). Further, the College of Musical Arts-—with around 500 students and 56 full-time faculty members—-offers students the resources and experiences of a large university with the feel of a more intimate setting.
+The M.M. in Music Theory at BGSU is broad-based, offering extraordinary opportunities in the area of contemporary music. The resources of the [Mid-American Center for Contemporary Music](link) enrich the learning experience with visiting artists and especially with the internationally renowned [New Music Festival](link). Further, the College of Musical Arts-with around 500 students and 56 full-time faculty members—offers students the resources and experiences of a large university with the feel of a more intimate setting.
 
 M.M. in Music Theory students therefore enjoy exceptional mentoring opportunities: they receive individual attention, assistantship assignments, and professional guidance that at other schools are typically reserved for doctoral students. Additionally, BGSU is located near several major cities with a vibrant professional music culture, including Detroit, Cleveland, Cincinnati, and Chicago.
 

@@ -2,9 +2,7 @@
 
 Notes, current issues, status
 
-## Structure
-
-### Current Tree
+## Current Structure
 
 Composition
 
@@ -18,9 +16,9 @@ Musicology/Ethnomusicology/Theory
 
 Theory (disabled)
 
-### Revised Tree Structure?
+## Revised Structure (Tentative)
 
-Composition
+### Composition
 
 * Home
 	* Area News (MUCT)
@@ -31,21 +29,21 @@ Composition
 	* Curricula
 * Student Accomplishments (MUCT)
 
-Musicology/Ethnomusicology/Theory
+### Musicology/Ethnomusicology/Theory
 
 * Home
-	* Area news (including composition)
+	* Area news (MUCT)
 * Musicology and Ethnomusicology
 * Theory
 * Affiliated Faculty
-* Small Ensembles
+* Small Ensembles (MUCT)
 * Degrees and Programs
 	* Financial aid, fellowships, scholarships, assistantships
 	* Admission requirements
 	* Curricula
 * Student Accomplishments (MUCT)
 
-## To do
+## Items to complete for individual pages
 
 ### Home
 
@@ -54,9 +52,9 @@ Musicology/Ethnomusicology/Theory
 ### Small Ensembles
 
 * Taiko director change?
-* New music ensemble?
+* Other ensembles that composition wants to feature? (New Music Ensemble, for example)
 * Description updates
-* Audio files
+* Add audio files and images
 
 ### Faculty
 
@@ -80,18 +78,21 @@ Musicology/Ethnomusicology/Theory
 ### Student Accomplishments
 
 * Ethnomusicology and musicology placements
-* Composition students (or combine with other page)
-* Degrees, thesis titles
-* Listing of current students?
+* Composition student accomplishments
+* Degrees, thesis titles where missing
+
+Listing of current students and interests/photos?
+
+* Working with graduate student organization?
+* Information for/about current students?
+* Could necessitate a change in title (Current and Past Student Accomplishments or something similar)
 
 ### Degrees & Programs
 
-* Check numbers
-* Where does Audition in China go?
+* Check numbers in introduction
+* Where does Audition in China go? Is it a major draw for our department?
 * Create buttons for other pages
-* Add Application and University Admissions buttons to all D&P pages
-
-This feels like it should go on a college-level page. It isn't very specific to the area and links to general topics (like auditioning in China)
+* Add Application and University Admissions buttons on left hand menu to all D&P pages
 
 ### Admission Requirements
 
