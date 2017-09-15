@@ -82,3 +82,7 @@ Notes, current issues, status
 
 * Format into blocks, buttons, or links
 * Add text to describe links
+
+### Music Industry Minor
+
+* Create page based on Erik's responses
