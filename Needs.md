@@ -9,9 +9,6 @@
 
 ## Faculty listing
 
-* Any title changes or promotions since the last update? (Ryan, Megan?)
-* Any other affiliated faculty (Right now it's Esther, Jeremy, and Rob Wallace)?
-* Do we want to list adjuncts?
 * Do we want to list one- or two-word interests? ("20th century music" or "African diaspora" instead of or in addition to "musicology" and "ethnomusicology")
 
 ## Area homepages

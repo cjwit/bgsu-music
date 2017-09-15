@@ -5,7 +5,7 @@ Jump to [Musicology](link), [Ethnomusicology](link), [Music Theory](link), [Affi
 ## Musicology
 
 [Ryan Ebright](http://www.bgsu.edu/musical-arts/faculty-and-staff/ryan-ebright.html)
-Visiting Instructor of Musicology
+Instructor of Musicology
 2005 Moore Musical Arts Center, 419-372-2866, [eryan@bgsu.edu](mailto:eryan@bgsu.edu)
 
 [Mary Natvig](http://www.bgsu.edu/musical-arts/faculty-and-staff/mary-natvig.html)
@@ -17,29 +17,21 @@ Associate Professor of Musicology, MUCT Advisor
 2013 Moore Musical Arts Center, 419-372-2933, [papane@bgsu.edu](mailto:papane@bgsu.edu)
 
 [Arne Spohr](http://www.bgsu.edu/musical-arts/faculty-and-staff/arne-spohr.html)
-Assistant Professor of Musicology
+Associate Professor of Musicology
 1003 Moore Musical Arts Center, 419-372-2519, [aspohr@bgsu.edu](mailto:aspohr@bgsu.edu)
 
 ## Ethnomusicology
-
-[Robert Desmond](http://www.bgsu.edu/musical-arts/faculty-and-staff/robert-desmond.html)
-Adjunct Assistant Professor (Steel Drum Ensemble Director)
-1031 Moore Musical Arts Center, 419-372-2181, [drums6336@att.net](mailto:drums6336@att.net)
 
 [Sidra Lawrence](http://www.bgsu.edu/musical-arts/faculty-and-staff/sidra-lawrence.html)
 Assistant Professor of Ethnomusicology
 2131 Moore Musical Arts Center, 419-372-9481, [sidral@bgsu.edu](mailto:sidral@bgsu.edu)
 
 [Katherine Meizel](http://www.bgsu.edu/musical-arts/faculty-and-staff/katherine-meizel.html)
-Assistant Professor of Ethnomusicology
+Associate Professor of Ethnomusicology
 1001 Moore Musical Arts Center, 419-372-8487, [kmeizel@bgsu.edu](mailto:kmeizel@bgsu.edu)
 
-[Allison Eckardt Merrill](http://www.bgsu.edu/musical-arts/faculty-and-staff/allison-eckardt-merrill.html)
-Adjunct Instructor (Taiko Ensemble Director)
-2010 Moore Musical Arts Center, 419-372-2181, [allisle@bgsu.edu](mailto:allisle@bgsu.edu)
-
 [Megan Rancier](http://www.bgsu.edu/musical-arts/faculty-and-staff/megan-rancier.html)
-Instructor of Ethnomusicology
+Lecturer of Ethnomusicology
 2144 Moore Musical Arts Center, 419-372-1030, [mrancie@bgsu.edu](mailto:mrancie@bgsu.edu)
 
 [Christopher Witulski](https://www.bgsu.edu/musical-arts/faculty-and-staff/christopher-witulski.html)
@@ -69,10 +61,6 @@ Associate Professor of Music Theory
 Esther Clinton
 Adjunct Instructor of Popular Culture
 346 Shatzel Hall, [estherc@bgsu.edu](mailto:estherc@bgsu.edu)
-
-Rob Wallace
-Adjunct Instructor of International Studies
-127 Shatzel Hall, [robwall@bgsu.edu](mailto:robwall@bgsu.edu)
 
 [Jeremy Wallach](http://www.bgsu.edu/arts-and-sciences/cultural-and-critical-studies/popular-culture/faculty-and-staff/jeremy-wallach.html)
 Associate Professor of Popular Culture

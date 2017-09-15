@@ -45,10 +45,6 @@ Notes, current issues, status
 ### Faculty
 
 * Add Erik Sabo
-* Allison Eckardt Merrill
-* Title changes, promotions (Ryan, Megan?)
-* Esther? other affiliated faculty?
-* Adjuncts?
 * Listing interests?
 
 ### Musicology
@@ -76,7 +72,7 @@ Notes, current issues, status
 * Where does Audition in China go? Is it a major draw for our department?
 * Create buttons for other pages
 * Add Application and University Admissions buttons on left hand menu to all D&P pages
-* Combine list of links (from program information) and index page?
+* Combine list of links (from program information) and index page? (Use http://www.bgsu.edu/musical-arts/current-students.html as a format?)
 
 ### Admission Requirements
 
@@ -86,10 +82,3 @@ Notes, current issues, status
 
 * Format into blocks, buttons, or links
 * Add text to describe links
-
-### Curricula
-
-* May work well as an accordion dropdown on the Admission Requirements page
-* Remove or update current course listings, or link to something accessible from outside of the University
-* Formatting to change curriculum table to text only?
-* Are admission requirements specific to theory, or should these be more centralized, perhaps on a page that has the curricula for each department?
