@@ -24,8 +24,8 @@ Notes, current issues, status
 * Affiliated Faculty
 * Small Ensembles (MUCT)
 * Degrees and Programs
-	* Financial aid, fellowships, scholarships, assistantships
-	* Admission requirements
+	* index
+	* Program Information
 	* Curricula
 * Student Accomplishments (MUCT)
 
@@ -44,6 +44,7 @@ Notes, current issues, status
 
 ### Faculty
 
+* Add Erik Sabo
 * Allison Eckardt Merrill
 * Title changes, promotions (Ryan, Megan?)
 * Esther? other affiliated faculty?
@@ -79,6 +80,7 @@ Listing of current students and interests/photos?
 * Where does Audition in China go? Is it a major draw for our department?
 * Create buttons for other pages
 * Add Application and University Admissions buttons on left hand menu to all D&P pages
+* Combine list of links (from program information) and index page?
 
 ### Admission Requirements
 
