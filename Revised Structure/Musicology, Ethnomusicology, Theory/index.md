@@ -6,5 +6,4 @@ Undergraduate degrees in [World Music](link) and [Music History & Literature](li
 
 The graduate programs require seminars in a variety of topics and methodologies, one foreign language, comprehensive exams and a thesis. Qualified students may also take studio lessons and courses in BGSU’s [Department of Popular Culture](link), [Ethnic Studies](link), [History](link), [Women’s Studies](link), and elsewhere across campus. In addition to BGSU's bands, choirs, orchestra programs, students in both undergraduate and graduate programs also participate in [the department's small ensembles](link) that focus on a diverse musical periods and traditions. These include the Afro-Caribbean, Balinese Gamelan, New Music, Early Music, Taiko, and Steel Drum ensembles.
 
-[Buttons: links to other pages]
 [Area news box]

@@ -2,7 +2,7 @@
 
 The Master of Music in Music Theory offers students an excellent opportunity to hone the scholarly, pedagogical, and presentational skills necessary to thrive in a competitive academic field. The degree offers a full complement of courses and seminars that encourage engagement with both traditional and more current lines of research in the discipline.
 
-[BUTTONS:]
+[BUTTONS]
 
 * [Download the Flyer](link)
 * [Student Accomplishments](link)
@@ -25,9 +25,9 @@ The [Arts Village (AV)](link) is a unique living/learning community dedicated to
 
 ## Financial Resources
 
-Resources are available to assist student workshop participation, research, and conference attendance. In addition, several assistantships are offered to Master’s students for graduate study. Check [the departmental page listing assistantship opportunities](link) for more information.
+Resources are available to assist student workshop participation, research, and conference attendance. In addition, several assistantships are offered to Master’s students for graduate study. Check [the listing of assistantship opportunities](https://www.bgsu.edu/musical-arts/prospective-students/masters/assistantships/muct.html) for more information.
 
-## [COLUMN:] Program strength and uniqueness
+## [COLUMN] Program strength and uniqueness
 
 * Individual attention
 * Teaching opportunities in the first year

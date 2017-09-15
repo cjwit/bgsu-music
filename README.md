@@ -33,7 +33,7 @@ Notes, current issues, status
 
 ### Home
 
-* Buttons/links to other pages
+* Banner photo?
 
 ### Small Ensembles
 
@@ -67,11 +67,7 @@ Notes, current issues, status
 * Ethnomusicology and musicology placements
 * Composition student accomplishments
 * Degrees, thesis titles where missing
-
-Listing of current students and interests/photos?
-
-* Working with graduate student organization?
-* Information for/about current students?
+* Information for/about current students? (Working with graduate student organization?)
 * Could necessitate a change in title (Current and Past Student Accomplishments or something similar)
 
 ### Degrees & Programs
