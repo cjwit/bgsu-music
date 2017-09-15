@@ -2,20 +2,6 @@
 
 Notes, current issues, status
 
-## Current Structure
-
-Composition
-
-Musicology/Ethnomusicology/Theory
-
-* Ethnomusicology
-* Musicology
-* Theory
-* About
-* Degrees and Programs
-
-Theory (disabled)
-
 ## Revised Structure (Tentative)
 
 ### Composition
