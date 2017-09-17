@@ -48,7 +48,7 @@ Professor of Music Theory, Associate Dean
 Assistant Professor of Music Theory
 2143 Moore Musical Arts Center, 419-372-2175, [gdecker@bgsu.edu](mailto:gdecker@bgsu.edu)
 
-[Nora Engebretsen-Broman](http://www.bgsu.edu/musical-arts/faculty-and-staff/nora-engebretsen.html)
+[Nora Engebretsen](http://www.bgsu.edu/musical-arts/faculty-and-staff/nora-engebretsen.html)
 Associate Professor of Music Theory, Department Chair of Musicology/Composition/Theory
 3146 Moore Musical Arts Center, 419-372-8644, [norae@bgsu.edu](mailto:norae@bgsu.edu)
 
