@@ -1,7 +1,5 @@
 # Departmental and Affiliated Faculty
 
-Jump to [Musicology](link), [Ethnomusicology](link), [Music Theory](link), [Affiliated Faculty in Other Departments](link)
-
 ## Musicology
 
 [Ryan Ebright](http://www.bgsu.edu/musical-arts/faculty-and-staff/ryan-ebright.html)
